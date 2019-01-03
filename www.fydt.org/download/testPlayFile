@@ -1,0 +1,731 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/%E9%A6%96%E9%A1%B5%EF%BC%9A%E5%9C%A3%E7%BB%8F%EF%BC%8C%E8%AE%B2%E9%81%93%EF%BC%8C%E8%80%B6%E7%A8%A3%EF%BC%8C%E7%A5%9E%EF%BC%8C%E9%9B%85%E4%BC%9F" />
+<link rel="shortlink" href="/node/33" />
+<link rel="shortcut icon" href="http://www.fydt.org/sites/all/themes/seven_doublemthemes/favicon.ico" type="image/vnd.microsoft.icon" />
+  <meta name="viewport" conthttp://www.fydt.org/cat/zhuantixilieent="width=device-width, initial-scale=1, maximum-scale=1.0, minimum-scale=1, user-scalable=no" />
+  <title>首页：圣经，讲道，耶稣，神，雅伟 | 福音电台</title>
+  <style type="text/css" media="all">
+@import url("http://www.fydt.org/modules/system/system.base.css?pjdqzy");
+@import url("http://www.fydt.org/modules/system/system.menus.css?pjdqzy");
+@import url("http://www.fydt.org/modules/system/system.messages.css?pjdqzy");
+@import url("http://www.fydt.org/modules/system/system.theme.css?pjdqzy");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.fydt.org/sites/all/libraries/mediaelement/build/mediaelementplayer.min.css?pjdqzy");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.fydt.org/sites/all/modules/adaptive_image/css/adaptive-image.css?pjdqzy");
+@import url("http://www.fydt.org/modules/comment/comment.css?pjdqzy");
+@import url("http://www.fydt.org/modules/field/theme/field.css?pjdqzy");
+@import url("http://www.fydt.org/modules/node/node.css?pjdqzy");
+@import url("http://www.fydt.org/modules/search/search.css?pjdqzy");
+@import url("http://www.fydt.org/modules/user/user.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/modules/views/css/views.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/modules/ckeditor/css/ckeditor.css?pjdqzy");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.fydt.org/sites/all/modules/ctools/css/ctools.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/modules/panels/css/panels.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/modules/video/css/video.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/modules/md_slider/css/animate.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/modules/md_slider/css/md-slider.css?pjdqzy");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.md-layer-2-0-0{z-index:1000!important;}.md-layer-2-1-0{z-index:2!important;}.md-layer-2-1-1{z-index:2!important;}.md-layer-2-2-0{z-index:2 !important;}.md-layer-2-2-1{z-index:2 !important;}.md-layer-2-3-0{z-index:1000!important;}.md-layer-2-4-0{z-index:1000 !important;}.md-layer-2-5-0{z-index:1000 !important;}.md-layer-2-6-0{z-index:999!important;}.md-layer-2-6-1{z-index:1000!important;}
+
+/*]]>*/-->
+</style>
+<style type="text/css" media="all">
+@import url("http://www.fydt.org/sites/all/modules/md_slider/css/md-slider-style.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/modules/panels_extra_layouts/plugins/layouts/three_four_adaptive/three_four_adaptive.css?pjdqzy");
+@import url("http://www.fydt.org/sites/default/files/ctools/css/5a21c96007e129710a309d581590a17c.css?pjdqzy");
+@import url("http://www.fydt.org/sites/default/files/ctools/css/669e95c1e5ebd6507a2caef9d9db383f.css?pjdqzy");
+@import url("http://www.fydt.org/sites/default/files/ctools/css/b4ba94034f0ca934a93a9847f34990e7.css?pjdqzy");
+@import url("http://www.fydt.org/sites/default/files/ctools/css/0b6940246ccd81a14dbf6cf2ea0baa6b.css?pjdqzy");
+@import url("http://www.fydt.org/sites/default/files/ctools/css/0ba5a8159633aa337f24d9faf4ed223a.css?pjdqzy");
+</style>
+<style type="text/css" media="screen,projection">
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/blueprint/screen.css?pjdqzy");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/wireframes.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/layout-fixed.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/page-backgrounds.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/tabs.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/pages.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/blocks.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/navigation.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/views-styles.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/nodes.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/comments.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/forms.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/fields.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/seven_common.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/responsive-mobile-portrait-layout.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/seven_colors.css?pjdqzy");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/print.css?pjdqzy");
+</style>
+<style type="text/css" media="(min-width: 479px)">
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/responsive-mobile-landscape-layout.css?pjdqzy");
+</style>
+<style type="text/css" media="(min-width: 767px)">
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/responsive-tablet-layout.css?pjdqzy");
+</style>
+<style type="text/css" media="all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/responsive-screen-layout.css?pjdqzy");
+</style>
+<style type="text/css" media="(min-width: 1120px)">
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/responsive-wide-layout.css?pjdqzy");
+</style>
+
+<!--[if lt IE 9]>
+<style type="text/css" media="all">
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/ie-responsive-mobile-landscape-layout.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/ie-responsive-tablet-layout.css?pjdqzy");
+@import url("http://www.fydt.org/sites/all/themes/seven_doublemthemes/css/ie-responsive-screen-layout.css?pjdqzy");
+</style>
+<![endif]-->
+<style type="text/css" media="all">
+@import url("http://www.fydt.org/sites/default/files/fontyourface/fontsquirrel/open-sans-fontfacekit/stylesheet.css?pjdqzy");
+@import url("http://www.fydt.org/sites/default/files/sweaver/sweaver_seven_doublemthemes_1_live.css?pjdqzy");
+</style>
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.fydt.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.fydt.org/misc/drupal.js?pjdqzy"></script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/libraries/mediaelement/build/mediaelement-and-player.min.js?v=2.1.6"></script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/modules/video/js/video.js?pjdqzy"></script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/modules/md_slider/js/jquery.touchwipe.js?pjdqzy"></script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/modules/md_slider/js/modernizr.js?pjdqzy"></script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/modules/md_slider/js/jquery-migrate-1.2.1.min.js?pjdqzy"></script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/modules/md_slider/js/jquery.easing.js?pjdqzy"></script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/modules/md_slider/js/md-slider.js?pjdqzy"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function($) {
+      $(document).ready(function() {
+          effectsIn = Drupal.settings.inEffects;
+          effectsOut = Drupal.settings.outEffects;
+          var options_2 = Drupal.settings.md_slider_options_2;$('#md-slider-2-block').mdSlider(options_2);
+      });
+    })(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/modules/mediaelement/mediaelement.js?pjdqzy"></script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/modules/ctools/js/jump-menu.js?pjdqzy"></script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/themes/seven_doublemthemes/js/scrollTo.js?pjdqzy"></script>
+<script type="text/javascript" src="http://www.fydt.org/sites/all/themes/seven_doublemthemes/js/menu.js?pjdqzy"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"seven_doublemthemes","theme_token":"BoKL_VNNdv9K2Ql7_vNvz5WYRDJPXV_nUUFgyinLqwo","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelement-and-player.min.js":1,"sites\/all\/modules\/video\/js\/video.js":1,"sites\/all\/modules\/md_slider\/js\/jquery.touchwipe.js":1,"sites\/all\/modules\/md_slider\/js\/modernizr.js":1,"sites\/all\/modules\/md_slider\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/all\/modules\/md_slider\/js\/jquery.easing.js":1,"sites\/all\/modules\/md_slider\/js\/md-slider.js":1,"1":1,"sites\/all\/modules\/mediaelement\/mediaelement.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/themes\/seven_doublemthemes\/js\/scrollTo.js":1,"sites\/all\/themes\/seven_doublemthemes\/js\/menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"sites\/all\/modules\/adaptive_image\/css\/adaptive-image.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/video\/css\/video.css":1,"sites\/all\/modules\/md_slider\/css\/animate.css":1,"sites\/all\/modules\/md_slider\/css\/md-slider.css":1,"0":1,"sites\/all\/modules\/md_slider\/css\/md-slider-style.css":1,"sites\/all\/modules\/panels_extra_layouts\/plugins\/layouts\/three_four_adaptive\/three_four_adaptive.css":1,"public:\/\/ctools\/css\/5a21c96007e129710a309d581590a17c.css":1,"public:\/\/ctools\/css\/669e95c1e5ebd6507a2caef9d9db383f.css":1,"public:\/\/ctools\/css\/b4ba94034f0ca934a93a9847f34990e7.css":1,"public:\/\/ctools\/css\/0b6940246ccd81a14dbf6cf2ea0baa6b.css":1,"public:\/\/ctools\/css\/0ba5a8159633aa337f24d9faf4ed223a.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/blueprint\/screen.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/wireframes.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/layout-fixed.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/page-backgrounds.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/tabs.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/pages.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/blocks.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/navigation.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/views-styles.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/nodes.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/comments.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/forms.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/fields.css":1,"sites\/all\/themes\/seven_doublemthemes\/nivo\/nivo-slider.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/seven_common.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/responsive-mobile-portrait-layout.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/seven_colors.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/print.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/responsive-mobile-landscape-layout.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/responsive-tablet-layout.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/responsive-screen-layout.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/responsive-wide-layout.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/ie-responsive-mobile-landscape-layout.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/ie-responsive-tablet-layout.css":1,"sites\/all\/themes\/seven_doublemthemes\/css\/ie-responsive-screen-layout.css":1,"sites\/default\/files\/fontyourface\/fontsquirrel\/open-sans-fontfacekit\/stylesheet.css":1,"public:\/\/sweaver\/sweaver_seven_doublemthemes_1_live.css":1}},"mediaelementAll":true,"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"md_slider_options_2":{"fullwidth":true,"transitionsSpeed":800,"width":"960","height":"380","enableDrag":true,"responsive":true,"pauseOnHover":false,"loop":true,"showLoading":true,"loadingPosition":"bottom","showArrow":true,"showBullet":false,"posBullet":"2","showThumb":false,"posThumb":"1","slideShowDelay":"3000","slideShow":true,"styleBorder":"0","styleShadow":"0","videoBox":false},"mediaelement":{".mediaelement-formatter-identifier-1546483164-0":{"opts":{"audioHeight":"25","audioWidth":"25","features":["playpause"],"startVolume":1},"controls":true},".mediaelement-formatter-identifier-1546483164-1":{"opts":{"audioHeight":"25","audioWidth":"25","features":["playpause"],"startVolume":1},"controls":true},".mediaelement-formatter-identifier-1546483164-2":{"opts":{"audioHeight":"25","audioWidth":"25","features":["playpause"],"startVolume":1},"controls":true}},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-33 node-type-page i18n-en" >
+  <div class="second-body">
+    <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
+    </div>
+        
+<div id="page-wrapper" class="page-wrapper" ><div id="page" class="page">
+
+  <header><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://www.fydt.org/sites/all/themes/seven_doublemthemes/logo.png" alt="Home" /></a>
+	  <a href="/" title="Home" rel="home" id="mobile-logo"><img src="/sites/all/themes/seven_doublemthemes/logo-mobile.png" alt="Home" /></a>
+    
+    
+      <div class="region region-header">
+    <div id="block-system-main-menu" class="block block-system block-menu first odd">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/" title="" class="active">首页</a></li>
+<li class="expanded"><a href="/cat/zhuantixilie" title="专题系列">专题系列</a><ul class="menu"><li class="first leaf"><a href="/cat/shirenyushipian" title="">诗人与诗篇</a></li>
+<li class="leaf"><a href="http://www.fydt.org/cat/xili" title="洗礼">洗礼</a></li>
+<li class="leaf"><a href="/cat/jidutuhunyin" title="基督徒婚姻">基督徒婚姻</a></li>
+<li class="leaf"><a href="/cat/shengdanjie" title="圣诞节">圣诞节</a></li>
+<li class="leaf"><a href="/cat/nonglixinnian" title="农历新年">农历新年</a></li>
+<li class="leaf"><a href="/cat/shengjingrenwu" title="圣经人物">圣经人物</a></li>
+<li class="leaf"><a href="/cat/fuyin" title="福音">福音</a></li>
+<li class="leaf"><a href="/cat/fuhuojie" title="复活节">复活节</a></li>
+<li class="leaf"><a href="/cat/xinshengming" title="新生命">新生命</a></li>
+<li class="last leaf"><a href="/cat/zuoshenxiyuedepuren" title="作神喜悦的仆人">作神喜悦的仆人</a></li>
+</ul></li>
+<li class="expanded"><a href="/cat/jiangdaoxinxi" title="讲道信息">讲道信息</a><ul class="menu"><li class="first leaf"><a href="/cat/xunqiushendezhengquetujing" title="寻求神的正确途径">寻求神的正确途径</a></li>
+<li class="leaf"><a href="/cat/zongjiaoyushulingdeduibi" title="宗教与属灵的对比">宗教与属灵的对比</a></li>
+<li class="leaf"><a href="/cat/shengmingdezhenyan" title="生命的箴言">生命的箴言</a></li>
+<li class="leaf"><a href="/cat/shengmingsuzhi" title="生命素质">生命素质</a></li>
+<li class="leaf"><a href="/cat/zhuanruoweineng" title="转弱为能">转弱为能</a></li>
+<li class="last leaf"><a href="/cat/dulixinxi" title="独立信息">独立信息</a></li>
+</ul></li>
+<li class="expanded"><a href="/cat/shujuanchakao" title="书卷查考">书卷查考</a><ul class="menu"><li class="first leaf"><a href="/cat/chuangshiji" title="创世记漫谈">创世记</a></li>
+<li class="leaf"><a href="/cat/liewangjishang" title="列王纪上">列王纪上</a></li>
+<li class="leaf"><a href="http://www.fydt.org/cat/zhenyan" title="">箴言</a></li>
+<li class="leaf"><a href="/cat/mataifuyin" title="马太福音">马太福音</a></li>
+<li class="leaf"><a href="/cat/luomashuzonglan" title="罗马书纵览">罗马书(纵览)</a></li>
+<li class="leaf"><a href="/cat/luomashu" title="罗马书">罗马书</a></li>
+<li class="leaf"><a href="http://www.fydt.org/cat/gelinduoqianshu" title="哥林多前书">哥林多前书</a></li>
+<li class="leaf"><a href="/cat/feilibishu" title="腓立比书">腓立比书</a></li>
+<li class="leaf"><a href="/cat/yageshu" title="雅各书">雅各书</a></li>
+<li class="leaf"><a href="/cat/bideqianshu" title="彼得前书">彼得前书</a></li>
+<li class="leaf"><a href="/cat/bidehoushu" title="彼得后书">彼得后书</a></li>
+<li class="leaf"><a href="/cat/yuehanyishu" title="约翰一书">约翰一书</a></li>
+<li class="last leaf"><a href="/cat/youdashu" title="犹大书">犹大书</a></li>
+</ul></li>
+<li class="leaf"><a href="/cat/shengjingyishenlun" title="圣经一神论">圣经一神论</a></li>
+<li class="leaf"><a href="/cat/qimiaoendian0" title="奇妙恩典">奇妙恩典</a></li>
+<li class="leaf"><a href="/cat/shengmingzaisi" title="生命再思">生命再思</a></li>
+<li class="leaf"><a href="/faq" title="">专题解答</a></li>
+<li class="leaf"><a href="/shu" title="">书籍推介</a></li>
+<li class="leaf"><a href="/songs" title="">诗歌分享</a></li>
+<li class="last leaf"><a href="/lianluo">关于我们</a></li>
+</ul>  </div>
+
+</div><!-- /.block -->
+<div id="block-jump-menu-jump-menu-m-main-menu" class="block block-jump-menu last even">
+
+      
+  <div class="content">
+    <form action="/" method="post" id="ctools-jump-menu--2" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+ <select class="ctools-jump-menu-select ctools-jump-menu-change form-select" id="edit-jump--2" name="jump"><option value="" selected="selected">＝＝＝网站目录＝＝＝</option><option value="/" class="d-1">首页</option><option value="/cat/zhuantixilie" class="d-1">专题系列</option><option value="/cat/jiangdaoxinxi" class="d-1">讲道信息</option><option value="/cat/shujuanchakao" class="d-1">书卷查考</option><option value="/cat/shengjingyishenlun" class="d-1">圣经一神论</option><option value="/cat/qimiaoendian0" class="d-1">奇妙恩典</option><option value="/cat/shengmingzaisi" class="d-1">生命再思</option><option value="/faq" class="d-1">专题解答</option><option value="/shu" class="d-1">书籍推介</option><option value="/songs" class="d-1">诗歌分享</option><option value="/lianluo" class="d-1">关于我们</option></select>
+</div>
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" id="edit-go--2" name="op" value="Go" /></div><input type="hidden" name="form_build_id" value="form-YAXhpdI8hgYLA25dpwTHQhWLauhaDMEBBaCtpqvpmTA" />
+<input type="hidden" name="form_id" value="ctools_jump_menu" />
+</div></form>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+	
+  </div></header><!-- /.section, /#header -->
+</div></div>
+  <div class="region region-widescreen">
+    <div id="block-md-slider-frontpage-main-slideshow" class="block block-md-slider first last odd">
+
+      
+  <div class="content">
+    <div id="md-slider-2-block" class="md-slide-items" data-thumb-width='100' data-thumb-height='75'>
+          
+  <div class="md-slide-item slide-1" data-timeout='3000' data-transition="strip-up-down-left" data-thumb-type='image' data-thumb-alt='' data-thumb='http://www.fydt.org/sites/default/files/styles/md_slider_2_thumb/public/Proverbs_message_11a_0.jpg?itok=2cUxWjBx'>
+    <div class="md-mainimg" style="">
+              <img src="http://www.fydt.org/sites/default/files/Proverbs_message_11a_0.jpg" alt="" />
+          </div>
+        <div class="md-objects">
+                <div class="md-object md-layer-2-0-0 fdsfds" data-x='121' data-y='135' data-width='713' data-height='151' data-start='600' data-stop='3014' data-easein='fadeInUpBig'>
+                        <a href="http://www.fydt.org/sermon/yikaoyawei">
+                <img src="http://www.fydt.org/sites/default/files/Proverbs_message_11b_2.png" alt="Proverbs_message_11b.png" />
+            </a>
+              </div>
+          </div>
+  </div>
+          
+  <div class="md-slide-item slide-2" data-timeout='4000' data-transition="bottom-curtain" data-thumb-type='image' data-thumb-alt='' data-thumb='http://www.fydt.org/sites/default/files/styles/md_slider_2_thumb/public/book_slide_an_bg_0.jpg?itok=pDBQvSMO'>
+    <div class="md-mainimg" style="">
+              <img src="http://www.fydt.org/sites/default/files/book_slide_an_bg_0.jpg" alt="" />
+          </div>
+        <div class="md-objects">
+                <div class="md-object md-layer-2-1-0 fdsfds" data-x='365' data-y='223' data-width='595' data-height='45' data-start='1000' data-stop='4014' data-easein='fadeIn' data-easeout='fadeOut'>
+                        <a href="http://www.fydt.org/sermon/yishengyishibiyouenhuiciaiyuwotongzaidisanzhang">
+                <img src="http://www.fydt.org/sites/default/files/book_slide_an_text03_0.png" alt="book_slide_an_text03.png" />
+            </a>
+              </div>
+                <div class="md-object md-layer-2-1-1 fdsfds" data-x='311' data-y='80' data-width='602' data-height='164' data-start='500' data-stop='4000' data-easein='fadeIn' data-easeout='fadeOut'>
+                        <a href="http://www.fydt.org/sermon/yishengyishibiyouenhuiciaiyuwotongzaidisanzhang">
+                <img src="http://www.fydt.org/sites/default/files/book_slide_an_text.png" alt="book_slide_an_text.png" />
+            </a>
+              </div>
+          </div>
+  </div>
+          
+          
+  <div class="md-slide-item slide-4" data-timeout='3000' data-transition="strip-up-right" data-thumb-type='image' data-thumb-alt='' data-thumb='http://www.fydt.org/sites/default/files/styles/md_slider_2_thumb/public/Proverbs_message_12_2_a_0.jpg?itok=8SCEILDd'>
+    <div class="md-mainimg" style="">
+              <img src="http://www.fydt.org/sites/default/files/Proverbs_message_12_2_a_0.jpg" alt="" />
+          </div>
+        <div class="md-objects">
+                <div class="md-object md-layer-2-3-0 fdsfds" data-x='0' data-y='28' data-width='680' data-height='305' data-start='500' data-stop='3000' data-easein='rotateInDownLeft' data-easeout='keep'>
+                        <a href="http://www.fydt.org/sermon/encidailinshe">
+                <img src="http://www.fydt.org/sites/default/files/Proverbs_message_12_2_b_0.png" alt="Proverbs_message_12_2_b.png" />
+            </a>
+              </div>
+          </div>
+  </div>
+          
+          
+          
+  <div class="md-slide-item slide-7" data-timeout='4000' data-transition="fade" data-thumb-type='image' data-thumb-alt='' data-thumb='http://www.fydt.org/sites/default/files/styles/md_slider_2_thumb/public/SM55_an_bg.jpg?itok=gLrBOyky'>
+    <div class="md-mainimg" style="">
+              <img src="http://www.fydt.org/sites/default/files/SM55_an_bg.jpg" alt="" />
+          </div>
+        <div class="md-objects">
+                <div class="md-object md-layer-2-6-0 fdsfds" data-x='100' data-y='113' data-width='740' data-height='118' data-start='386' data-stop='4000' data-easein='fadeInUp' data-easeout='vanishOut'>
+                        <a href="http://www.fydt.org/sermon/anxiyujidutongfue">
+                <img src="http://www.fydt.org/sites/default/files/SM55_an_text1_0.png" alt="SM55_an_text1.png" />
+            </a>
+              </div>
+                <div class="md-object md-layer-2-6-1 fdsfds" data-x='385' data-y='226' data-width='204' data-height='26' data-start='786' data-stop='4000' data-easein='fadeInUp' data-easeout='vanishOut'>
+                        <a href="http://www.fydt.org/sermon/anxiyujidutongfue">
+                <img src="http://www.fydt.org/sites/default/files/SM55_an_text2_0.png" alt="SM55_an_text2.png" />
+            </a>
+              </div>
+          </div>
+  </div>
+    </div>
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+<div class="page-wrapper" ><div class="page">
+
+  <div id="main-wrapper"><div id="main" class="clearfix">
+
+      
+      
+    <section id="content" class="column"><div class="section">
+            
+      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">首页：圣经，讲道，耶稣，神，雅伟</h1>
+                                            <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+      
+  <div class="content">
+    <div id="node-33" class="node node-page view-mode-full clearfix" about="/%E9%A6%96%E9%A1%B5%EF%BC%9A%E5%9C%A3%E7%BB%8F%EF%BC%8C%E8%AE%B2%E9%81%93%EF%BC%8C%E8%80%B6%E7%A8%A3%EF%BC%8C%E7%A5%9E%EF%BC%8C%E9%9B%85%E4%BC%9F" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="首页：圣经，讲道，耶稣，神，雅伟" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  
+  <div class="content">
+      </div>
+
+  
+  
+</div><!-- /.node -->
+  </div>
+
+</div><!-- /.block -->
+<div id="block-panels-mini-fp-sermon-promo" class="block block-panels-mini last even">
+
+      
+  <div class="content">
+    
+<div class="panel-display panel-three-four-adaptive clear-block" id="mini-panel-fp_sermon_promo">
+ <!-- 3x3 grid -->
+ 
+  
+  
+  <!-- 66/33% - 2 columns -->
+  <div class="panel-panel line">
+    <div class="panel-panel unit panel-col-sixty-six">
+      <div class="inside">
+        <div class="panel-pane pane-views pane-fp-monotheism-corner pane-plain-box-temporary-eaa3b0d4f49dbff99ab9a817124b7e66"  >
+  
+        <h2 class="pane-title">
+      圣经《一神论》查考    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-fp-monotheism-corner view-id-fp_monotheism_corner view-display-id-default view-dom-id-2eea0e1bdf72959ba773e1beac81b6b7">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-promo-image-med">        <div class="field-content"><a href="/sermon/jinniudushijiandejiejian"><img class="adaptive-image" typeof="foaf:Image" src="http://www.fydt.org/sites/default/files/styles/sermon_promo_large/adaptive-image/public/sermon-promo-img-med/Topm_08_small.jpg?itok=XjLr5pcM" alt="金牛犊事件的借鉴" title="金牛犊事件的借鉴" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/sermon/jinniudushijiandejiejian">金牛犊事件的借鉴</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-fp-book-promo pane-plain-box-temporary-eaa3b0d4f49dbff99ab9a817124b7e66"  >
+  
+        <h2 class="pane-title">
+      书籍推介    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-fp-book-promo view-id-fp_book_promo view-display-id-default view-dom-id-7bb59364c6888683095e984f8d129320">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid cols-5">
+  
+  <tbody>
+          <tr  class="row-1 row-first row-last">
+                  <td  class="col-1 col-first">
+              
+  <div class="views-field views-field-field-cover-image">        <div class="field-content"><a href="/content/hehebenyaweibandianzishengjing"><img class="adaptive-image" typeof="foaf:Image" src="http://www.fydt.org/sites/default/files/styles/fp_book_image/adaptive-image/public/book-cover/Matthew.jpg?itok=ZgD2Cntk" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <h4 class="field-content book-title"><a href="/content/hehebenyaweibandianzishengjing">和合本雅伟版电子圣经</a></h4>  </div>          </td>
+                  <td  class="col-2">
+              
+  <div class="views-field views-field-field-cover-image">        <div class="field-content"><a href="/content/wanquanweishen2016xiudingban"><img class="adaptive-image" typeof="foaf:Image" src="http://www.fydt.org/sites/default/files/styles/fp_book_image/adaptive-image/public/book-cover/CTRev_lowres.jpg?itok=u4azVRlP" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <h4 class="field-content book-title"><a href="/content/wanquanweishen2016xiudingban">完全委身2016修订版</a></h4>  </div>          </td>
+                  <td  class="col-3">
+              
+  <div class="views-field views-field-field-cover-image">        <div class="field-content"><a href="/content/xiangtianfunayangwanquan"><img class="adaptive-image" typeof="foaf:Image" src="http://www.fydt.org/sites/default/files/styles/fp_book_image/adaptive-image/public/book-cover/SM_PE_low.jpg?itok=lp1zdtlB" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <h4 class="field-content book-title"><a href="/content/xiangtianfunayangwanquan">像天父那样完全</a></h4>  </div>          </td>
+                  <td  class="col-4 col-last">
+              
+  <div class="views-field views-field-field-cover-image">        <div class="field-content"><a href="/content/duyidewanquanren"><img class="adaptive-image" typeof="foaf:Image" src="http://www.fydt.org/sites/default/files/styles/fp_book_image/adaptive-image/public/book-cover/topm147.jpg?itok=qp7RCkTm" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <h4 class="field-content book-title"><a href="/content/duyidewanquanren">独一的完全人</a></h4>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p align="right">
+</p><ul>
+<li><a href="/shu">其他书籍</a></li>
+</ul>
+
+    </div>
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-front-page-news-panel-pane-1 pane-plain-box-temporary-de519a4f58845d98f4c662bccac8e17e"  >
+  
+        <h2 class="pane-title">
+      网站留言    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view--front-page-news view-id-_front_page_news view-display-id-panel_pane_1 view-dom-id-1c227c3817d9cd9c475a23f910730d7e">
+        
+  
+  
+      <div class="view-content">
+      <table  class="views-table cols-0">
+       <tbody>
+          <tr  class="odd views-row-first views-row-last">
+                  <td  class="views-field views-field-body">
+            2019年1月1日<p class="rtejustify"><strong><span style="color:#006400"><span style="font-family:dfkai-sb; font-size:14px">《遍地要认识雅伟》</span></span></strong><span style="color:rgb(0, 0, 0); font-family:dfkai-sb; font-size:14px">是我们于</span><span style="font-size:14px"><span style="font-family:dfkai-sb"><font color="#000000"><span style="caret-color:rgb(0, 0, 0)">2019年首月的推介诗歌。 愿我们每一个人在新的一年里，更竭力的认识雅伟天父，好让他可以透过我们的生命，更加彰显他的荣耀。</span></font></span></span></p>
+          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+      </div>
+    </div>
+
+    <div class="panel-panel unit panel-col-thirty-three lastUnit">
+      <div class="inside">
+        <div class="panel-pane pane-views pane-front-page-monotheism-new pane-plain-box-temporary-d600132f7d001c19cda2100774cf4cfb"  >
+  
+        <h2 class="pane-title">
+      最新圣经《一神论》信息    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view--front-page-monotheism-new view-id-_front_page_monotheism_new view-display-id-block view-dom-id-31676e4ae7760f174e7b10a242221894">
+        
+  
+  
+      <div class="view-content">
+      <table  class="views-table cols-0">
+       <tbody>
+          <tr  class="odd views-row-first">
+                  <td  class="views-field views-field-title">
+            <a href="/sermon/jinniudushijiandejiejian">金牛犊事件的借鉴</a>          </td>
+              </tr>
+          <tr  class="even">
+                  <td  class="views-field views-field-title">
+            <a href="/sermon/zipingzhaozijibunengzuoshiyao">子凭着自己不能做什么</a>          </td>
+              </tr>
+          <tr  class="odd">
+                  <td  class="views-field views-field-title">
+            <a href="/sermon/jiaoshirenkeyixinnichailiaowolai">叫世人可以信你差了我来</a>          </td>
+              </tr>
+          <tr  class="even">
+                  <td  class="views-field views-field-title">
+            <a href="/sermon/tayinruanruobeidingzaishizijiashang">他因软弱被钉在十字架上</a>          </td>
+              </tr>
+          <tr  class="odd views-row-last">
+                  <td  class="views-field views-field-title">
+            <a href="/sermon/duyidezhuzaiwomendeshen">独一的主宰 — 我们的神</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-fp-new-sermons pane-plain-box-temporary-d600132f7d001c19cda2100774cf4cfb"  >
+  
+        <h2 class="pane-title">
+      最新信息/见证    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-fp-new-sermons view-id-fp_new_sermons view-display-id-default view-dom-id-b19649b9c5c5c6be2d41f79070938cba">
+        
+  
+  
+      <div class="view-content">
+      <table  class="views-table cols-0">
+       <tbody>
+          <tr  class="odd views-row-first">
+                  <td  class="views-field views-field-title">
+            <a href="/sermon/encidailinshe">恩慈待邻舍</a>          </td>
+              </tr>
+          <tr  class="even">
+                  <td  class="views-field views-field-title">
+            <a href="/sermon/anxiyujidutongfue">安息—与基督同负一轭</a>          </td>
+              </tr>
+          <tr  class="odd">
+                  <td  class="views-field views-field-title">
+            <a href="/sermon/yishengyishibiyouenhuiciaiyuwotongzaidisanzhang">一生一世必有恩惠慈爱与我同在：第三章</a>          </td>
+              </tr>
+          <tr  class="even views-row-last">
+                  <td  class="views-field views-field-title">
+            <a href="/sermon/yikaoyawei">倚靠雅伟</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-fp-song-promo pane-plain-box-temporary-2161d62a63c1a2aea24093c49596468e"  >
+  
+        <h2 class="pane-title">
+      诗歌推介    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-fp-song-promo view-id-fp_song_promo view-display-id-default view-dom-id-94f39107348b85a6378fabde0800bb40">
+        
+  
+  
+      <div class="view-content">
+      <table  class="views-table cols-0">
+       <tbody>
+          <tr  class="odd views-row-first">
+                  <td  class="views-field views-field-title">
+            <a href="/content/biandiyaorenshiyawei">遍地要认识雅伟</a>          </td>
+                  <td  class="views-field views-field-field-mp3-audio-file">
+            <div class="mediaelement-audio"><audio  src="http://www.fydt.org/sites/default/files/ge-mp3/S04_002_1.mp3" class="mediaelement-formatter-identifier-1546483164-0" controls="controls" preload="none"></audio></div>          </td>
+              </tr>
+          <tr  class="even">
+                  <td  class="views-field views-field-title">
+            <a href="/content/chuanqidejiaohui">传奇的教会</a>          </td>
+                  <td  class="views-field views-field-field-mp3-audio-file">
+            <div class="mediaelement-audio"><audio  src="http://www.fydt.org/sites/default/files/ge-mp3/S03_034.mp3" class="mediaelement-formatter-identifier-1546483164-1" controls="controls" preload="none"></audio></div>          </td>
+              </tr>
+          <tr  class="odd views-row-last">
+                  <td  class="views-field views-field-title">
+            <a href="/ge/woxinkaodeshishui">我信靠的是谁</a>          </td>
+                  <td  class="views-field views-field-field-mp3-audio-file">
+            <div class="mediaelement-audio"><audio  src="http://www.fydt.org/sites/default/files/ge-mp3/S01_054_2.mp3" class="mediaelement-formatter-identifier-1546483164-2" controls="controls" preload="none"></audio></div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-fp-mv-newest pane-plain-box-temporary-645443bb7acd4cddce1ae4682846fcfe"  >
+  
+        <h2 class="pane-title">
+      MV推介    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view--fp-mv-newest view-id-_fp_mv_newest view-display-id-default view-dom-id-e81f254ff00fbce43063c4c3dcb27a6c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-mv-thumbnail">        <div class="field-content"><a href="/content/chuanqidejiaohui"><img class="adaptive-image" typeof="foaf:Image" src="http://www.fydt.org/sites/default/files/styles/sermon_promo_large/adaptive-image/public/mv-tupian/S03_034thumb.jpg?itok=g7XKacI6" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/chuanqidejiaohui">传奇的教会</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+      </div>
+    </div>
+  </div>
+  
+   
+  
+  
+  <!-- 66/33% - 2 columns -->
+  <div class="panel-panel line">
+    <div class="panel-panel unit panel-col-sixty-six">
+      <div class="inside">
+        <div class="panel-pane pane-views pane-select-adpt-img-lnk"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-select-adpt-img-lnk view-id-select_adpt_img_lnk view-display-id-default view-dom-id-1abbb7696d69920092dd7ad9527721e0">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-adaptive-image">        <div class="field-content"><a href="http://www.fydt.org/sites/default/files/phonegap-apk/FYDT_1.3.0.apk"><img class="adaptive-image" typeof="foaf:Image" src="http://www.fydt.org/sites/default/files/styles/sermon_promo_large/adaptive-image/public/adpt_img_lnk/android-promo-2018.jpg?itok=Mf16pivW" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-footer">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+      </div>
+    </div>
+
+    <div class="panel-panel unit panel-col-thirty-three lastUnit">
+      <div class="inside">
+        <div class="panel-pane pane-views pane-select-adpt-img-lnk"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-select-adpt-img-lnk view-id-select_adpt_img_lnk view-display-id-default view-dom-id-0f6006de4d59543c1c806edf061fd28e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-adaptive-image">        <div class="field-content"><a href="https://itunes.apple.com/hk/app/%E7%A6%8F%E9%9F%B3%E7%94%B5%E5%8F%B0/id990565779?mt=8"><img class="adaptive-image" typeof="foaf:Image" src="http://www.fydt.org/sites/default/files/styles/sermon_promo_large/adaptive-image/public/adpt_img_lnk/ios-promo-2018.jpg?itok=Ixw8SJ5z" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-footer">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+      </div>
+    </div>
+  </div>
+  
+   
+ <!-- 4x4 grid -->
+ </div>
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+          </div></section><!-- /.section, /#content -->
+
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+
+  
+</div></div><!-- /#page, /#page-wrapper -->
+<div class="closure">
+    <div class="region region-bottom">
+    <div id="block-block-7" class="block block-block first last odd">
+
+      
+  <div class="content">
+    <p>&copy; 2019 福音电台。版权所有。(<a href="/lianluo">联络我们</a>)</p><br />
+<p>本网站的文章、音频、视频版权归福音电台所有（转载文章除外）。</p>
+
+<p>欢迎转载本网站的文章、音频、视频，但须注明出处及链接（URL）。</p>
+
+<p>出于对作者的尊重，转载时请勿删改文章内容。</p>
+
+<p>(<a href="http://www.fydt.org/downloadpolicy">福音电台 data download policy</a>)</p>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+</div>    <div style="display:none">sfy39587stp17</div>   
+  </div>	
+</body>
+</html>

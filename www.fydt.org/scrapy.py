@@ -16,11 +16,11 @@ def parse_root_web_url_to_get_download_files(res):
             # 'http://www.fydt.org/system/files_force/sermon/mobilepdf/Ps00_mobile.pdf?download=1'
             # elem.attrs['href']
             r = requests.get(href_)
-            with open(elems[elems.index(elem)].attrs['title'], "wb") as code:
-                # code.write(r.content)
-                # break
-                print(elems[elems.index(elem)].attrs['title'])
-                print(href_)
+            with open('01', "wb") as code:
+                code.write(r.content)
+                break
+                # print(elems[elems.index(elem)].attrs['title'])
+                # print(href_)
 
 
 parse_root_web_url_to_get_download_files(res)

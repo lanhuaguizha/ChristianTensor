@@ -166,7 +166,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       
   <div class="content">
     <ul class="menu"><li class="first leaf"><a href="/" title="" class="active">首页</a></li>
-<li class="expanded"><a href="/cat/zhuantixilie" title="专题系列">专题系列</a><ul class="menu"><li class="first leaf"><a href="/cat/shirenyushipian" title="">诗人与诗篇</a></li>
+<li class="expanded"><a href="/cat/zhuantixilie" title="专题系列">专题系列</a><ul class="menu">
+<li class="first leaf">
+<a href="/cat/shirenyushipian" title="">诗人与诗篇</a></li>
 <li class="leaf"><a href="http://www.fydt.org/cat/xili" title="洗礼">洗礼</a></li>
 <li class="leaf"><a href="/cat/jidutuhunyin" title="基督徒婚姻">基督徒婚姻</a></li>
 <li class="leaf"><a href="/cat/shengdanjie" title="圣诞节">圣诞节</a></li>
